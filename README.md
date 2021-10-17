@@ -21,13 +21,13 @@ are working fine.
 
 ## To Run this Project
 
-Download/clone this repository from this link: [GitHub Repository](https://github.com/khairmuhammad/Graduate_Admission_Prediction) in your system. 
+Download/clone this repository from this link: [GitHub Repository](https://github.com/shrey-1999/Graduate_Admission_Prediction) in your system. 
 Open command line (anaconda prompt), go to the folder that contains all project files. Then run the command ```python app.py``` 
 which will give you an address like ```localhost:5000``` or ```localhost:8050``` copy that and paste it in the address bar of web browser. 
 Project's interface will load on the web browser.
 
 Furthermore, I have deployed this project as web app on heroku. To visit that web app copy and paste this link in the address bar of
-web browser. Link: [Heroku Web App](https://graduate-admission-prediction0.herokuapp.com)
+web browser. Link: [Heroku Web App](https://student-admission-predict.herokuapp.com/)
  
 ![GUI_1](https://github.com/khairmuhammad/Graduate_Admission_Prediction/blob/master/templates/GUI_1.png)
 
