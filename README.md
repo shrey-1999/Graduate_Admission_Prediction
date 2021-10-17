@@ -18,6 +18,10 @@ are working fine.
 * numpy			```pip install numpy```
 * pandas		```pip install pandas```
 
+## Flowchart
+
+![image](https://user-images.githubusercontent.com/42883586/137637095-6cbdcb31-7999-406b-9480-83edcdb4a725.png)
+
 
 ## To Run this Project
 
