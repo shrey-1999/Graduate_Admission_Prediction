@@ -1,6 +1,7 @@
-Flask
+Flask==1.1.1
 pandas
 pickleshare
 scikit-learn
+gunicorn==19.9.0
 
 
